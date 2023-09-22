@@ -1,0 +1,14 @@
+altair
+snowflake-connector-python
+snowflake-sqlalchemy
+snowflake-snowpark-python[pandas]==1.5.1
+numpy
+pandas
+matplotlib
+seaborn
+openai
+streamlit_chat
+langchain==0.0.124
+pinecone-client
+sqlalchemy
+faiss-cpu
